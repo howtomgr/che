@@ -1,0 +1,62 @@
+{
+  "category": "development-environments",
+  "created_date": "2025-09-15T22:48:57.333192",
+  "default_ports": [
+    80,
+    443,
+    8080
+  ],
+  "dependencies": [],
+  "description": "che is a free and open-source developer workspace. Eclipse Che provides Kubernetes-native IDE and developer workspace",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/development-environments/che",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/development-environments/che",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.333209",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "che",
+  "repository_url": "https://github.com/howtomgr/che",
+  "spec_version": "2.0",
+  "subcategory": "development-environments",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "development-environments",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "che Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/development-environments/che"
+}
